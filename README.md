@@ -11,12 +11,6 @@ The main goals of this assignment are:
 This was done using a Google Colab notebook.
 
 ## 📁 Repository Structure
-Data-Source-API-Analyst-Test/
-├── README.md
-├── Content/
-│ ├── API_documentation.md
-│ ├── api_requests.ipynb
-│ └── Troubleshooting_guide.md
 
 Data-Source-API-Analyst-Test/
 ├── README.md
