@@ -18,6 +18,13 @@ Data-Source-API-Analyst-Test/
 │ ├── api_requests.ipynb
 │ └── Troubleshooting_guide.md
 
+Data-Source-API-Analyst-Test/
+├── README.md
+├── Content/
+│   ├── API_documentation.md
+│   ├── api_requests.ipynb      
+│   └── Troubleshooting_guide.md
+
 ## ✅ API Endpoints Used
 
 - `GET /search/repositories` – Search for repositories
